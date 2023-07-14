@@ -1,4 +1,7 @@
 # Simple-world-simulation-Java
+
+For better view open directly README.md
+
 Made using Java Swing
 Simple world simulation that includes a few animal and plant spicies, breeding and fighting. 
 There is not specific goal or target, it's just simulation.
