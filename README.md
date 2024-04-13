@@ -41,4 +41,4 @@ Organisms:
   'T' - Grass -> has 1/7 chance to spread
   'G' - Guarana -> has 1/8 chance to spread, gives any organism that eat it +3 strength
   'B' - Pine Borscht -> has 1/9 chance to spread, kills every organism that eat it or stands right next to it 
- 
+  
